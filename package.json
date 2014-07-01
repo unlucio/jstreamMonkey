@@ -1,0 +1,20 @@
+{
+  "name": "jstremMonkey",
+  "version": "0.0.1",
+  "description": "a momkey dealing with json bananas",
+  "main": "throwingMonkey.js",
+  "dependencies": {
+    "JSONStream": "^0.8.4",
+    "event-stream": "^3.1.5",
+    "express": "^4.4.3",
+    "morgan": "^1.1.1",
+    "randomstring": "^1.0.3",
+    "request": "^2.36.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node throwingMonkey.js"
+  },
+  "author": "unlucio",
+  "license": "MIT"
+}
